@@ -1,0 +1,14 @@
+{
+  "name": "loggercustom",
+  "version": "1.0.0",
+  "description": "All logs info warn and error in the file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Babunandan Agrahari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
